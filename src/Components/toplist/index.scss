@@ -1,0 +1,45 @@
+.head{
+	height:0.37rem;
+	box-sizing:border-box;
+	padding:0.1rem;
+	background:#fff;
+	p:nth-child(1){
+		float:left;
+	}
+	p:nth-child(2){
+		float:right;
+	}
+
+}
+div{
+	width:100%;
+			background:#fff;
+
+}
+.all{
+	width:200%
+}
+
+.sec{
+	float:left;
+	width:1.05rem;
+	margin:0.05rem;
+	height:1.63rem;
+	img{
+	width:1.05rem;
+	}
+	p{
+		height:0.16rem;
+		width:100%;
+		overflow:hidden;
+	}
+	span:nth-child(3){
+		color:#f00;
+		margin-right:0.2rem;
+	}
+	span:nth-child(4){
+		font-size:12px;
+		color:#ccc;
+		margin-right:0.2rem;
+	}
+}

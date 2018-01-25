@@ -1,0 +1,153 @@
+nav{
+	box-sizing:border-box;
+	height:1rem;
+	width:100%;
+	background:#fdde4a;
+	font-size:14px;
+	padding:0 0.3rem;
+	overflow:hidden;
+	z-index:1;
+	.sear{
+
+		margin-top:0.1rem;
+		display:block;
+		width:100%;
+		border-radius:0.1rem;
+		height:0.3rem;
+		line-height:0.3rem;
+		color:#ccc;
+		background:#fff;
+		border:0;
+		padding:0 0.08rem;
+		text-decoration:none
+
+	}
+	.itemall{
+		width:100%;
+		height:0.8rem;
+		overflow-y:hidden;
+		background:#fdde4a;
+
+
+	}
+	.items1{
+		text-align:center;
+		line-height:0.4rem;
+		background:#fdde4a;
+		width:18%;
+		box-sizing:border-box;
+		float:left;
+	}
+	.line{
+		float:left;
+		width:0px;
+		height:0.2rem;
+		border-right:1px solid #000;
+		box-sizing:border-box;
+		padding-left:0.1rem;
+		background:#fdde4a;
+		margin-top:0.1rem;
+
+
+	}
+	.all{
+		float:right;
+		width:75%;
+		overflow:auto;
+		height:0.8rem;
+		overflow-y:hidden;
+		background:#fdde4a;
+	}
+	.secall{
+		width:420%;
+		overflow-y:hidden;
+		display:flex;
+		height:0.8rem;
+		background:#fdde4a;
+	}
+	.items{
+		display:block;
+		width:0.8rem;
+		text-align:center;
+		line-height:0.4rem;
+		background:#fdde4a;
+	}
+
+}
+.searin{
+	width:100%;
+	height:0.5rem;
+	box-sizing:border-box;
+	padding:0.15rem;
+	background:#fdde4a;
+	.but1{
+		width:0.5rem;
+		float:left;
+		background:#fdde4a;
+		border:none;
+		color:#ccc;}
+
+	.inp{
+		border:0;
+		height:0.25rem;
+		width:75%;
+		background:#ccc;
+		border-radius:0.08rem;
+	}	
+	.but2{
+		width:0.3rem;
+		float:right;
+		background:#fdde4a;
+		border:none;
+		color:#ccc;}
+}
+.sale9{
+	box-sizing:border-box;
+	height:1.133rem;
+	width:100%;
+	background:#fdde4a;
+	font-size:14px;
+	padding:0 0.3rem;
+	overflow:hidden;
+}
+.con1{
+	margin-top:0.2rem;
+	width:100%;
+	height:0.5rem;
+	background:#fdde4a;
+	text-align:center;
+	font-size:20px;
+
+}
+.but3{
+	width:0.5rem;
+	float:left;
+	background:#fdde4a;
+	border:none;
+}
+.ul1{
+	width:200%;
+	background:#fdde4a;
+}
+.li1{
+	float:left;
+	padding:0 0.1rem;
+	background:#fdde4a;
+}
+.div9{
+	background:#fdde4a;
+}
+.goback{
+	position:fixed;
+	top:0.3rem;
+	left:0.3rem;
+	width:0.5rem;
+	height:0.5rem;
+	background:blue;
+	z-index:999;
+	opacity:.4;
+	text-align:center;
+	line-height:0.5rem;
+	border-radius:50%;
+
+}
